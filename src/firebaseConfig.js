@@ -2,12 +2,12 @@ import Firebase from 'firebase'
 
 /* Firebase configuration */
 let config = {
-    apiKey: "AIzaSyDdT4jfE_hlNVEGyN5os7pfNwRkw4uV5TU",
-    authDomain: "site-bookmarker.firebaseapp.com",
-    databaseURL: "https://site-bookmarker.firebaseio.com/",
-    projectId: "Site Bookmarker",
-    storageBucket: "gs://site-bookmarker.appspot.com/",
-    messagingSenderId: "797633048873"
+    apiKey: "AIzaSyDa3UcGoeGYkMteBgtI5-mgAhDLXz55M_M",
+    authDomain: "vue405-a7dee.firebaseapp.com",
+    databaseURL: "https://vue405-a7dee.firebaseio.com",
+    projectId: "vue405-a7dee",
+    storageBucket: "vue405-a7dee.appspot.com",
+    messagingSenderId: "716118010988"
 };
 
 const firebaseApp = Firebase.initializeApp(config);
